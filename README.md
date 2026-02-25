@@ -18,7 +18,7 @@ Instead of just acting like a standard chatbot, Antigravity functions like a tru
 
 **I want to be absolutely clear: I am not sponsored, affiliated, or compensated by Google or the DeepMind team in any way whatsoever.**
 
-I am simply a writer and developer who tried this tool for the very first time and was so deeply impressed by its sheer capability, coherence, and "magic" that I decided to dedicate this entire GitHub repository to the project we build together. This repo exists out of pure gratitude and sheer amazement at what agentic AI can do when handed the reins to a creative project.
+I am simply a developer who tried this tool for the very first time and was so deeply impressed by its sheer capability, coherence, and "magic" that I decided to dedicate this entire GitHub repository to the project we build together. This repo exists out of pure gratitude and sheer amazement at what agentic AI can do when handed the reins to a creative project.
 
 ## 📖 The Story: [Working Title: The Zenith Anomaly]
 If you want to see what we built, dive into the folders! 
