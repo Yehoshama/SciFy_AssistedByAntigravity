@@ -3,7 +3,7 @@
 ## Kaelen Vance (Main Character)
 *   **Primary Profession:** Intelligence Officer (Combat/Tactical Training).
 *   **Secondary Profession:** Xenobiology and Mineral Researcher.
-*   **Role on Ship:** His actual designated job is Intelligence Officer, and he actively monitors security protocols, risk assessments, and tactical data. However, because humanity has known centuries of peace, his primary duties offer significant downtime. During his idle hours, he acts as a secondary assistant to the Xenobiology department (under Lyra).
+*   **Role on Ship:** He is the ship's **Senior Military Officer**. His actual designated job is Intelligence, actively monitoring security protocols, risk assessments, and tactical data. However, because humanity has known centuries of peace, his primary duties offer significant downtime. During his idle hours, he acts as a secondary assistant to the Xenobiology department (under Lyra).
 *   **Background:** Top-of-his-class academy graduate. Highly disciplined, logical, and reliant on data.
 
 ## Captain Aris Voss

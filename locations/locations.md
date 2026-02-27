@@ -2,7 +2,8 @@
 
 ## The Ship: "The Zenith"
 *   **Purpose:** Built for deep-space exploration, specifically designed to handle multi-generational scenarios if necessary.
-*   **Capabilities:** Fully self-sustaining. Equipped with advanced manufacturing, fabrication, and comprehensive research facilities.
+*   **Capabilities:** Fully self-sustaining. Equipped with advanced manufacturing, fabrication, comprehensive research facilities, and advanced medical bays capable of handling mass casualties.
+*   **Hangar & Defensive Complement:** Features utility fleets including orbital shuttles equipped with heavy mining lasers, as well as a squadron of combat fighters. While built for peace, the ship retains armed fighters as a logical protocol against unknown deep-space variables.
 *   **Aesthetics/Amenities:** Unlike pure military vessels, this ship includes dedicated spaces for leisure, recreation, and long-term psychological health, recognizing the needs of a crew on a potentially endless journey.
 
 ## The Origin Point: Protos
