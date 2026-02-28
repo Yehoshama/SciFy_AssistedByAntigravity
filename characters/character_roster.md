@@ -29,6 +29,21 @@
 *   **Secondary Profession:** [To be determined]
 *   **Role on Ship:** Chief Navigator, operating the pilot's station on the bridge. 
 
+## Dr. Varis
+*   **Primary Profession:** Chief Medical Officer
+*   **Secondary Profession:** Trauma Surgery
+*   **Role on Ship:** Oversees all medical triage and health protocols. Deals with the grim reality of the 37 casualties and 15% injured crew members.
+
+## Quartermaster Silas
+*   **Primary Profession:** Head of Logistics
+*   **Secondary Profession:** Resource Fabrication & Mining Coordination
+*   **Role on Ship:** Manages the ship's material reserves and fabrication queues. Crucial for repairing the ship and replacing the jump drive.
+
+## Dr. Soren
+*   **Primary Profession:** Chief Science Officer (Astrophysics)
+*   **Secondary Profession:** Sensor Array Management
+*   **Role on Ship:** The most senior scientist on board. Tasked with understanding where they are and analyzing the asteroid field for mineable raw materials without functioning long-range sensors.
+
 ---
 ## The Profession System:
 The society operates on a rigorous system of **Primary, Secondary (and sometimes Tertiary) Professions**. 
